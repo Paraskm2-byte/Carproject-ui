@@ -181,7 +181,7 @@ const CarTable = () => {
 
               <FaSyncAlt />
 
-              Refresh
+              Refresh text
 
             </button>
 
